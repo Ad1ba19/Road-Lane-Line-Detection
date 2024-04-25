@@ -70,4 +70,3 @@ Final result with good detection performance.
 ![](asset/final.PNG)
 
 ![](asset/output_2.gif)
-# Road-Lane-Line-Detection
